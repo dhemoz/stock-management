@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Build directories
+frontend/build/
+backend/build/
+
+# Cache
+*.cache/
+*.log
+
+# Environment files
+.env
