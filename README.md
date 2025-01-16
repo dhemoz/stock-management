@@ -26,7 +26,7 @@ Stock management application for tracking inventory movements, managing batch re
 
 To run this project locally, ensure you have:
 
-- **Node.js** (v14+)
+- **Node.js** (v22+)
 - **PostgreSQL** (v12+)
 - **npm** or **yarn** package manager
 - A web browser (e.g., Chrome, Firefox)
